@@ -120,6 +120,6 @@ Here are some ideas to get you started:
 2016 - Победитель олимпиады школьников Санкт-Петербургского государственного университета по Социологии ([Диплом](https://disk.yandex.com/i/T3lih2ZYyQyU4g))
 
 ---
-Контакты
+### Контакты
 
 ![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)
