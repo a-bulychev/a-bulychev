@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=data:image/svg+xml;base64,xxx&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -45,6 +46,10 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-%234285F4.svg?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-FF0000?style=for-the-badge&logo=redash&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=data:image/svg+xml;base64,xxx&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DataLens](https://img.shields.io/badge/DataLens-027BFE?style=for-the-badge&logo=data:image/svg+xml;base64,xxx&logoColor=white)
 
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
@@ -54,18 +59,10 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-Redash
-Seaborn
-DataLens
-
-SPSS, EXCEL
-
 ---
 ### Проекты
 | Название проекта | Описание проекта | Стек |
 |---|---|---|
-| Проект 1 | Описание 1 | Стек 1 |
-| Проект 2 | Описание 2 | Стек 2 |
 | [Анализ данных бразильского маркетплейса Olist Store](https://github.com/a-bulychev/marketplace_olist_brazilian_ecommerce) | Определение наличия product/market fit. Оценка месячного Retention. Определение метрик для максимизации прибыли. Приоритизация гипотез по фреймворку ICE | Python, Pandas, NumPy, Seaborn, Plotly, Matplotlib  |
 | [Plants & Gardens](https://github.com/a-bulychev/plants_and_gardens) | Написание функции для расчёта Retention по дням от даты регистрации. Анализ результатов A/B-теста: "Китовая" vs "Массовая" модель. Применение z-теста и bootstrap. Определение метрик для оценки тематического события | Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Statsmodels |
 
