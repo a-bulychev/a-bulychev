@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 | Название проекта | Описание проекта | Стек |
 |---|---|---|
 | [Анализ данных бразильского маркетплейса Olist Store](https://github.com/a-bulychev/marketplace_olist_brazilian_ecommerce) | Определение наличия product/market fit. Оценка месячного Retention. Определение метрик для максимизации прибыли. Приоритизация гипотез по фреймворку ICE | Python, Pandas, NumPy, Seaborn, Plotly, Matplotlib  |
-| [Plants & Gardens](https://github.com/a-bulychev/plants_and_gardens) | Написание функции для расчёта Retention по дням от даты регистрации. Анализ результатов A/B-теста: "Китовая" vs "Массовая" модель. Применение z-теста и bootstrap. Определение метрик для оценки тематического события | Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Statsmodels |
+| [Анализ данных мобильной игры Plants & Gardens](https://github.com/a-bulychev/plants_and_gardens) | Написание функции для расчёта Retention по дням от даты регистрации. Анализ результатов A/B-теста: "Китовая" vs "Массовая" модель. Применение z-теста и bootstrap. Определение метрик для оценки тематического события | Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Statsmodels |
 
 
 - 2024 «Портрет молодого IT-специалиста» по заказу АО «Нексайн» (ПАО «МегаФон») ([Благодарность](https://disk.yandex.com/i/ck0srbIubM3M8g))
